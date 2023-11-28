@@ -1,5 +1,4 @@
-.main
-{
+.main {
   background-color: #494F55;
   width: 40vw;
   color: white;
@@ -9,14 +8,14 @@
   border-radius: 10px;
   padding: 5%;
 }
-.header
-{
+
+.header {
   display: flex;
-  justify-content: space-between; 
+  justify-content: space-between;
   align-items: center;
 }
-.btn
-{
+
+.btn {
   width: 100px;
   height: 30px;
   padding: 10px;
@@ -24,27 +23,28 @@
   border: none;
 
 }
-.inputWrapper{
-display: flex;
-flex-direction: column
+
+.inputWrapper {
+  display: flex;
+  flex-direction: column
 }
 
-.inputForm
-{
+.inputForm {
   padding: 10px;
   border: none;
   margin-top: 8 px;
   margin-bottom: 15px;
-  
+
 }
-label
-{
+
+label {
   margin-top: 10px;
   font-size: large;
   font-weight: 500;
   margin-bottom: 5px;
 }
-.btnSave{
+
+.btnSave {
 
   width: 100px;
   height: 30px;
@@ -53,13 +53,13 @@ label
   border: none;
 
 }
-.btnwrapper
-{
+
+.btnwrapper {
   display: flex;
-  gap:10px;
+  gap: 10px;
 }
-.Card
-{
+
+.Card {
   background-color: aliceblue;
   border-radius: 5px;
   padding: 10px;
@@ -67,8 +67,22 @@ label
   color: black;
 }
 
+.selectItems {
+  color: rgba(0, 0, 255, 0.715);
+  display: flex;
+  justify-content: end;
+}
+
+.dropdownMenu {
+  width: 30vh;
+  margin-bottom: 20px;
+  height: 5vh;
+}
+
 @media only screen and (max-width: 450px) {
   /* For desktop: */
-  
-  .main {width: 85vw;}
+
+  .main {
+    width: 85vw;
+  }
 }
