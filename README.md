@@ -66,3 +66,5 @@ The application will be accessible at http://localhost:3000 in your web browser.
   
   Feel free to enhance the project and contribute!
 
+Also I have uploaded the PDF which includes Question 1 which was assigned.
+
