@@ -66,5 +66,9 @@ The application will be accessible at http://localhost:3000 in your web browser.
   
   Feel free to enhance the project and contribute!
 
+  Screenshot:
+  ![image](https://github.com/Shreyask24/Daily-Task-Manager/assets/92247820/89a6816d-6588-4769-b03b-23e715af814c)
+
+
 Also I have uploaded the PDF which includes Question 1 which was assigned.
 
